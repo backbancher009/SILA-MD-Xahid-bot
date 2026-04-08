@@ -1,8 +1,8 @@
 {
-  "name": "𝙎𝙄𝙇𝘼-𝙈𝘿",
-  "description": "Javascript WhatsApp bot made ʙʏ 𝙎𝙞𝙡𝙖-𝙏𝙚𝙘𝙝",
+  "name": "𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓",
+  "description": "Javascript WhatsApp bot made ʙʏ 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓",
   "logo": "https://files.catbox.moe/gnjb7s.jpg",
-  "keywords": ["𝙎𝙄𝙇𝘼-𝙈𝘿"],
+  "keywords": ["𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓"],
   "success_url": "/",
 
     "stack": "container",
@@ -79,14 +79,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*𝙎𝙀𝙀𝙉 𝙔𝙊𝙐𝙍 𝙎𝙏𝘼𝙏𝙐𝙎 𝘽𝙔 𝙎𝙄𝙇𝘼-𝙈𝘿 🐺*"
+      "value": "*𝙎𝙀𝙀𝙉 𝙔𝙊𝙐𝙍 𝙎𝙏𝘼𝙏𝙐𝙎 𝘽𝙔 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓 🐺*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝙎𝙞𝙡𝙖-𝙏𝙚𝙘𝙝"
+      "value": "𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓"
 }, 
 
     "OWNER_NUMBER": {
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝙎𝙄𝙇𝘼-𝙈𝘿"
+      "value": "𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓"
 
       }, 
 
@@ -138,7 +138,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ SILA-MD*"
+      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓*"
     },
 
       "DELETE_LINKS": {
