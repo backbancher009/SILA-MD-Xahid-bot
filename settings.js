@@ -1,10 +1,10 @@
 const settings = {
   // Bot Basic Info
-  packname: 'SILA MD',
-  author: 'Sir.Sila',
-  botName: "SILA MD",
-  botOwner: 'SILA',
-  ownerNumber: '255772346413',
+  packname: '𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓',
+  author: '𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓',
+  botName: "𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓",
+  botOwner: '𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓',
+  ownerNumber: '8801838569277',
   
   // Bot Version & Mode
   version: "1.0.0",
@@ -26,13 +26,13 @@ const settings = {
   
   // Channel & Group Settings
   newsletterJid: "120363402325089913@newsletter",
-  mainChannel: "https://whatsapp.com/channel/0029VbBG4gfISTkCpKxyMH02",
-  stbChannel: "https://whatsapp.com/channel/0029Vb7CLKM5vKAHHK9sR02z",
-  logoChannel: "https://whatsapp.com/channel/0029VbBmFT430LKO7Ch9C80X",
+  mainChannel: "",
+  stbChannel: "",
+  logoChannel: "",
   
   // Group Links
-  botUserGroup: "https://chat.whatsapp.com/IdGNaKt80DEBqirc2ek4ks",
-  silaTechGroup: "https://chat.whatsapp.com/C03aOCLQeRUH821jWqRPC6",
+  botUserGroup: "",
+  silaTechGroup: "",
   
   // Auto Reactions
   autoReactions: {
@@ -43,16 +43,16 @@ const settings = {
   
   // Auto Bio - 10 fupi fupi random
   autoBio: [
-    '🐢 sɪʟᴀ ᴍᴅ ʙᴏᴛ | ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴀ ᴛᴇᴄʜ',
-    '🤖 ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ᴀssɪsᴛᴀɴᴛ | sɪʟᴀ ᴍᴅ ᴠ3',
-    '🚀 ʙᴏᴛ ᴀᴄᴛɪᴠᴇ | sɪʟᴀ ᴛᴇᴄʜ sᴇʀᴠɪᴄᴇs',
-    '💫 sɪʟᴀ ᴍᴅ ᴍɪɴɪ | ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ',
-    '🎯 ᴀɪ ᴘᴏᴡᴇʀᴇᴅ ʙᴏᴛ | sɪʟᴀ ᴛᴇᴄʜ',
-    '⚡ ғᴀsᴛ & ᴇғғɪᴄɪᴇɴᴛ | sɪʟᴀ ᴍᴅ ʙᴏᴛ',
-    '🔧 24/7 ᴀᴄᴛɪᴠᴇ | sɪʟᴀ ᴛᴇᴄʜ sᴜᴘᴘᴏʀᴛ',
-    '🌟 ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛ | sɪʟᴀ ᴍᴅ sᴇʀᴠɪᴄᴇs',
-    '📱 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ | sɪʟᴀ ᴛᴇᴄʜ ᴠ3',
-    '🎮 ᴍᴜʟᴛɪ-ғᴜɴᴄᴛɪᴏɴ | sɪʟᴀ ᴍᴅ ʙᴏᴛ'
+    '🐢 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓 ʙᴏᴛ | ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐙𝐀𝐇𝐈𝐃 ᴛᴇᴄʜ',
+    '🤖 ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ᴀssɪsᴛᴀɴᴛ | 𝐙𝐀𝐇𝐈𝐃 ᴠ3',
+    '🚀 ʙᴏᴛ ᴀᴄᴛɪᴠᴇ | 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓 sᴇʀᴠɪᴄᴇs',
+    '💫 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓 | ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ',
+    '🎯 ᴀɪ ᴘᴏᴡᴇʀᴇᴅ ʙᴏᴛ | 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓',
+    '⚡ ғᴀsᴛ & ᴇғғɪᴄɪᴇɴᴛ | 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓',
+    '🔧 24/7 ᴀᴄᴛɪᴠᴇ | 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓 sᴜᴘᴘᴏʀᴛ',
+    '🌟 ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛ | 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓 sᴇʀᴠɪᴄᴇs',
+    '📱 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ | 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓 ᴠ3',
+    '🎮 ᴍᴜʟᴛɪ-ғᴜɴᴄᴛɪᴏɴ | 𝐙𝐀𝐇𝐈𝐃-𝐁𝐎𝐓'
   ],
   
   // Auto Replies
